@@ -1,9 +1,9 @@
 ----		
- -layout: post		
- -title: "设计模式-创建型模式"		
- -date: 2017-08-03 10:33		
- -category: ProgramDesign		
- -tags: 设计模式		
+ layout: post		
+ title: "设计模式-创建型模式"		
+ date: 2017-08-03 10:33		
+ category: ProgramDesign		
+ tags: 设计模式		
  ----		
 ## 设计模式之创建型模式		
  创建型模式抽象了实例化过程。它包括类创建型模式（通过继承改变被实例化的类）和对象创建型模式（将实例化委托给另一个类）。创建型模式主要包括五种：  
